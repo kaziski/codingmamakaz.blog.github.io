@@ -1,11 +1,11 @@
 # Site settings
 author: Kazumi Karbowski
-title: 
+title: Code my way
 header-img: img/home-bg.png
 email: kazkazinus@gmail.com
 copyright_name: Kazumi Karbowski
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Kazumi's coding journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Codingmamakaz
 github_username:  codingmamakaz
